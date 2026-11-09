@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/MojoJolo/textteaser/commit/f96cc7422e9a175977a2935bb2fe571aadf0293e",
       "git:hexsha": "f96cc7422e9a175977a2935bb2fe571aadf0293e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
